@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Friendly-Eye-Mover</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button_product_tour">product tour</string>
+
+    <string name="startpage_head">--> folgen Sie einfach mit Ihren Augen dem Smilie</string>
+    <string name="startpage_bottom">Los geht`s …\n--- Enter ---</string>
+
+    <string name="welcom_head_00">Description</string>
+    <string name="welcom_content_00">
+        <![CDATA[
+        <h>The \"friendly eye-mover\" is a small app, that will help you to very effectively introduce relaxation and stress relief into your hectic everyday life.
+        All humans are enjoying these phases of rapid eye movement in their daily sleep, when our experiences of the day are being processed. Using this app,
+         it will enable you, to also benefit from this positive processing even being awake.
+        As a result you will immediately feel a pleasant freshness, relaxation and a mental recreation. This will happen easily and without any negative side effects.<br><br>
+        Using this app it allows you to introduce small \'islands of recreation\' in the course of your frantic day.
+        If you are preparing for an important meeting, an important job, a difficult conversation or other challenges in front of you,
+        or even just for end of work, you will like to enjoy the positive effect this little app can provide for you.
+        It will support you to generate a good and effective basis for whatever you will need it.<br><br>
+        With your eyes you will just follow an animated symbol from right to left, on different levels by looking up,
+        straight forward and downwards. Additionally this visual recreational effect will be supported by an alternating sound switching from one ear to the other.
+        Similar to what happens when you are learning how to juggle you will anticipate synchronization between the two hemispheres of your brain.
+        Rational thinking and creativity will be revealed and supported.
+        Use this as a basis for recovery, relaxation or to gain full attention and performance whenever it is needed.<br><br>
+
+        Further information on how this principle is working and applied in face-to-face wingwave® coaching sessions you will find here:<br>
+            <a href="http://www.coachmylife.de/was-ist-wingwave/" style="color:blue;text-decoration:underline;">www.coachmylife.de/was-ist-wingwave/</a>
+             or here:<br>
+            <a href="http://http://www.wingwave.com/en/home.html" style="color:blue;text-decoration:underline;">http://www.wingwave.com/en/home.html</a>
+            <br><br><b>The friendly-eye-mover, because it works!</b>
+        </h>
+        ]]>
+    </string>
+
+    <string name="welcom_head_10">Beschreibung</string>
+    <string name="welcom_content_10">
+        <![CDATA[
+        <h>Der \"friendly-eye-mover\" ist eine kleine App die dabei hilft, sehr effektiv Entspannung in unseren hektischen Alltag zu holen.
+        Die schnellen Phasen der Augenbewegungen (rapid-eye-movements), die wir Menschen alle mehrmals im Schlaf durchlaufen, helfen uns,
+        unsere Tageserlebnisse im Schlaf zu verarbeiten. Mit dieser App gelingt es, diesen Verarbeitungsprozess spontan im Wachzustand zu generieren.
+        Das Ergebnis ist eine angenehme Frische, Entspannung und mentale Erholung, einfach und ohne Nebenwirkungen.<br><br>
+
+        So eingesetzt erlaubt die App im hektischen Tagesgeschehen kurze und sehr effektive Erholungsinseln in unseren Alltag zu integrieren. Egal,
+        ob Sie sich auf ein wichtiges Meeting vorbereiten, einen wichtigen Geschäftstermin haben, ein schwieriges Gespräch erledigen, vor (z.B. sportlichen)
+        Herausforderungen stehen oder sich am Feierabend einfach etwas erholen wollen.
+        Diese App wird Ihnen dabei helfen, ein gutes, effektives und mentales Fundament hierfür zu schaffen.<br><br>
+
+        Sie folgen mit Ihren Augen einfach einem bewegten Symbol von rechts nach links, auf verschiedenen Ebenen, zuerst mit dem Blick nach oben,
+        dann geradeaus schauend und danach mit den Augen nach unten gerichtet. Zusätzlich wird die visuell angeregte Entspannung noch durch einen
+        angenehm zwischen dem linken und rechten Ohr pendelnden Ton auch auditiv unterstützt. Ähnlich wie beim Jonglieren findet hierbei eine Synchronisation
+        der rechten und linken Hemisphäre im Gehirn statt. Beides, Ihr rationales Denken und Ihre Kreativität wir somit unterstützt und gefördert,
+        als Basis für Erholung oder vorbereitend für Ihre volle Performance und Aufmerksamkeit. <br><br>
+
+        Weiter Informationen zu dem Wirkprinzip und der Anwendung im wingwave®-Coaching finden Sie hier: <br>
+            <a href="http://www.coachmylife.de/was-ist-wingwave/" style="color:blue;text-decoration:underline;">www.coachmylife.de/was-ist-wingwave/</a><br>
+             oder hier:<br>
+            <a href="http://http://www.wingwave.com/en/home.html" style="color:blue;text-decoration:underline;">http://www.wingwave.com/en/home.html</a>
+            <br><br><b>Der friendly-eye-mover, weil er funktioniert!</b>
+        </h>
+        ]]>
+    </string>
+
+    <string name="welcom_head_01">How to use it</string>
+    <string name="welcom_content_01">
+        <![CDATA[
+        <h><u>Attention:</u><br>Don`t use this app during driving or working on machines or similar.<br><br>
+        •	First time you use it, read the section:<br>\"Background information: How and why it works\"<br>
+        •	Use your headphones.<br>
+        •	Sit down relaxed.<br>Feet, legs, arms are in parallel position.<br>
+            Take a deep breath.<br>Keep your shoulders, jaw and arms loose.<br>
+        •	Adjust the distance between your eyes and the screen in a way that it allows a maximum way of travel for your eyes (use landscape orientation)<br>
+        •	Let your eyes follow the animated Smiley, without moving your head.<br>
+        •	Use this app twice a day as long as you like, until you feel a pleasant recreation.<br><br>
+        </h>
+        ]]>
+    </string>
+
+    <string name="welcom_head_11">Anwendung</string>
+    <string name="welcom_content_11">
+        <![CDATA[
+        <h><u>ACHTUNG:</u><br>Wenden Sie diese App niemals beim Führen eines Kfz oder beim Bedienen von Maschinen an.<br><br>
+        •	Beim ersten Mal, lesen Sie den Abschnitt: <br>Hintergrundinformation: Wie und warum es funktioniert<br>
+        •	Verwenden Sie einen Kopfhörer.<br>
+        •	Schalten Sie Störungen (Telefon, Benachrichtigungen, …) ab.<br>
+        •	Setzen Sie sich entspannt hin. <br>Füße, Beine und Arme sind parallel und entspannt.<br>Tief durchatmen. <br>Schultern, Kiefer, Arme locker. <br>
+        •	Wählen Sie den Abstand zwischen Ihren Augen und dem Bildschirm so nah, dass die <br>Augenbewegungen dabei möglichst viel Weg zurücklegen können. (Querformat).<br>
+        •	Folgen Sie mit Ihren Augen dem sich bewegenden Smiley, ohne dass Sie dabei Ihren Kopf mitbewegen.<br>
+        •	Benutzen Sie die App täglich 2x,<br>solange, bis Sie eine angenehme Entspannung fühlen.<br>
+        </h>
+        ]]>
+    </string>
+
+    <string name="welcom_head_02">Background information: How and why it works</string>
+    <string name="welcom_content_02">
+        <![CDATA[
+        <h>The following background information is a translation (quotation), taken out of the German book:<br>
+        <b><u><i>„wingwave – wie der Flügelschlag eines Schmetterlings“,Cora Besser-Siegmund und Harry Siegmund, Junfermann-Verlag 2010</i></u></b><br>
+        <i>Self-coaching advise: Using `eye-gymnastics` in order to open and to de-stress your mind:</i><br><br>
+        At any time you can benefit from the de-stressing functionality of eased and released eye movements, this by just using them to achieve a general relaxed body and mind state.
+        Whenever you will find a possibility in your everyday life e.g. when queuing at the supermarket or waiting in front of a red traffic
+        light – let your eyes do some gymnastics – this will animate and vitalize the six pairs of muscles which are responsible for moving your eyeballs.<br><br>
+        The way we look in our everyday life is mostly like frozen, e.g. when we look at our computer screens, our TVs or even when reading a book.
+        This kind of narrow look is very similar to what pilots call the `tunnel vision`. In this specific situation the allocation and concentration of lifesaving symbols
+        , displays or switches is extremely important in case of an emergency situation in an aircraft. A severe emergency case will lead to this tunnel vision, also with experienced pilots.
+        The pilot loses his vitality and flexibility in his look and this leads him to stare at the switchboards where the most important functionality is located in order to assure a save landing.
+        For this reason all those extreme important switches are located within his central look.
+        By no means anyone would install such important equipment beside the pilots seat or on the ceiling of the panels because they would not be recognized in such a stressful situation.<br><br>
+        After you have done this exercise of eye-gymnastics, leave your eyes open just like being in a daydream.
+        You may feel comfortable to defocus and look to the horizon or into a long distance.
+        As an effect of the a.m. exercise you will notice that now there is an extended visual field that you recognize, even without moving your eyes from one side to the other.
+        This you can call a daydream – or the diverse look. It is not only that you will benefit from this `state` yourself, you will also recognize,
+        that your friends, colleagues and people around you will react unconsciously positively when interacting with you. If you keep this diverse look it will enable you,
+        to observe a wider periphery around that person you are talking to. Your counterpart will anticipate your way of looking at him as friendly, warm and well interested.
+        It has been proven that looking at people in a rigid and stressful way this will initiate tension and even a feeling of fear in your conversations.
+        The opposite you generate, when keeping the diverse look and carry it into you conversations. It will support and strengthen a pleasant communication.<br><br>
+        The diverse look will on the one hand side keep you focused and awake while it increases your perception and on the other hand side it de-stresses any conversation
+         where you might need it. It leads to a calming effect.<br><br>
+        These specific eye-gymnastics are an ideal mind refreshment whether you use it at work or in private life.
+        If once your look has become a diverse look this is the best prerequisite allowing your thoughts, feelings and conversations to flow to an optimum.<br><br>
+        </h>
+        ]]>
+    </string>
+
+    <string name="welcom_head_12">Hintergrundinformation: Wie und warum es funktioniert</string>
+    <string name="welcom_content_12">
+        <![CDATA[
+        <h><b><u><i>Aus dem Coaching-Basis-Buch: „wingwave – wie der Flügelschlag eines Schmetterlings“,Cora Besser-Siegmund und Harry Siegmund, Junfermann-Verlag 2010</i></u></b><br>
+        <i>Selbstcoaching-Tipp: mit „Augenturnen“ das Stressfenster öffnen:</i><br><br>
+        Sie können jederzeit von der ent-stressenden Wirkung der gelösten  Augenbewegungen profitieren, indem Sie diese einfach zur allgemeinen Entspannung einsetzen.
+        Wann immer Sie einen Leerlauf haben – in der Warteschlange im Supermarkt, bei Stehen an der roten Ampel,
+        – lassen Sie Ihre Augen bewusst ein bisschen „turnen“ – das belebt und lockert die jeweils sechs Muskelpaare, welche unseren Augapfel und somit unseren Blick steuern. <br><br>
+
+        Unser Blick ist im zivilisierten Alltag  allzu oft zur „Erstarrung“ verurteilt: beim Lesen, Fernsehen, am PC-Monitor.
+        Diese Einengung auf Monitor-Format erinnert sehr an das so genannte „Stress-Fenster“ aus der Pilotensprache.
+        Hier spielt die kompakte Anordnung von Handlungssymbolen und –schaltern eine wichtige Funktion im Notprogramm.
+        Eine Notsituation kann auch beim erfahrenen Piloten Stress auslösen und zum „Tunnelblick“ führen:
+        Der Pilot verliert die Lebhaftigkeit im Blick, starrt vor sich hin und kann nur noch eingeschränkt die wichtigsten Schalter und Hebel,
+        welche für eine glimpfliche Landung wichtig wären, finden und bedienen. Deshalb sind diese auf kleinstem Feld zentral im Blickfeld angeordnet.
+        Kein wichtiger Schalter ist etwa neben dem Sitz oder ganz oben an der Konsole angebracht, da der gestresste Mensch nur im eingeschränkten Blickfeldradius wahrnimmt.<br><br>
+
+        Nach dem Augenturnen lassen Sie die Augen wie beim Tagträumen geöffnet ruhen. Schauen Sie leicht in die Ferne und defokussieren sie dabei den Blick.
+        Sie werden nun feststellen, dass Sie einen sehr weiten Blickradius haben und auch ohne Augenbewegungen ganz weit nach links und rechts hin die Peripherie wahrnehmen können.
+        Daher nennt man diesen Tagtraum-Blick auch den „peripheren Blick“. Auch Ihre  Mitmenschen reagieren unbewusst äußerst positiv auf diesen peripheren Blick.
+        Lassen Sie die Augen gelöst im Blickkontakt ruhen und nehmen sie den ganzen peripheren Rahmen wahr, der die Person umgibt.
+        Ihr Gesprächspartner erlebt diese Art des Angeschaut-Werden als freundlich, interessiert und warm. Man hat in Experimenten festgestellt,
+        dass ein starrer, gestresster Blick beim Gegenüber Spannungen bis hin zu ängstlichen Gefühlen auslösen kann.
+        Der gelöste Blick hilft demnach auch, eine angenehme Kommunikations-Atmosphäre zu fördern.<br><br>
+
+        Der „gelöste“ und auch lebhafte Blick macht also gleichermaßen angenehm wach, entspannt, vergrößert den Wahrnehmungsradius und öffnet für Sie und Andere mögliche Stressfenster.
+        Er wirkt  automatisch befreiend und beruhigend.  <br><br>
+
+        Ein gezieltes Augenturnen ist somit auch außerdem eine ideale „Mental-Erfrischung“ für zwischendurch am Schreibtisch-Arbeitsplatz.
+        Ist der Blick im „Flow“ fließen auch Gedanken, Gefühle und Gespräche wieder optimal.<br><br>
+        </h>
+        ]]>
+    </string>
+
+    <string name="welcom_head_03">Instruction</string>
+    <string name="welcom_content_03">Never lose your progress, so you can keep working from any computer or device.</string>
+
+    <string name="welcom_content_04">
+        <![CDATA[
+            <center>says thank you for using the<br>
+            <b>Friendly-Eye-Mover</b><br>
+            Have a nice and relaxed day.<br><br>
+            Visit us on
+            <a href="http://www.Coachmylife.de" style="color:blue;text-decoration:underline;">www.Coachmylife.de</a>
+            where you will find<br>
+            additional information about
+            <a href="http://www.Coachmylife.de" style="color:blue;text-decoration:underline;">wingwave</a><br><br>
+
+            Did you like the <b>Friendly-Eye-Mover?</b><br>
+            Leave a comment or Like on<br>
+            <a href="http://www.facebook.com/coachmylife.de" style="color:blue;text-decoration:underline;">www.facebook.com/coachmylife.de</a><br>
+            - Thank you –
+        ]]>
+    </string>
+
+    <string name="welcom_content_14">
+        <![CDATA[
+            <center>sagt danke, dass Sie den<br>
+            <b>Friendly-Eye-Mover</b><br>
+            benutzt haben und wünscht Ihnen<br>
+            noch einen entspannten Tag.<br><br>
+            Besuchen Sie mich gerne auf
+            <a href="http://www.Coachmylife.de" style="color:blue;text-decoration:underline;">www.Coachmylife.de</a>
+            dort finden Sie<br>
+            auch weitere Infos zu
+            <a href="http://www.Coachmylife.de" style="color:blue;text-decoration:underline;">wingwave</a><br><br>
+
+            Gefällt Ihnen der <b>Friendly-Eye-Mover?</b> <br>
+            Dann dürfen Sie gerne auf
+            <a href="http://www.facebook.com/coachmylife.de" style="color:blue;text-decoration:underline;">www.facebook.com/coachmylife.de</a><br>
+            ein Like und einen Kommentar hinterlassen<br>
+            - Danke -
+        ]]>
+    </string>
+
+    <string name="endpage_content">
+        <![CDATA[
+            <center>sagt danke, dass Sie den<br>
+            <b>Friendly-Eye-Mover</b><br>
+            benutzt haben und wünscht Ihnen <br>
+            noch einen entspannten Tag.<br><br>
+            Besuchen Sie mich gerne auf
+            <a href="http://www.Coachmylife.de" style="color:blue;text-decoration:underline;">www.Coachmylife.de</a>
+            dort finden Sie<br>
+            auch weitere Infos zu
+            <a href="http://www.Coachmylife.de" style="color:blue;text-decoration:underline;">wingwave</a><br><br>
+
+            Gefällt Ihnen der <b>Friendly-Eye-Mover?</b> <br>
+            Dann dürfen Sie gerne auf
+            <a href="http://www.facebook.com/coachmylife.de" style="color:blue;text-decoration:underline;">www.facebook.com/coachmylife.de</a><br>
+            Ein Like hinterlassen<br>
+            - Danke -
+        ]]>
+    </string>
+
+    <string name="title_fg1">APP One</string>
+    <string name="content_fg1">happy project hahahaha</string>
+    <string name="title_fg2">APP TWO</string>
+    <string name="content_fg2">happy project  lalalala</string>
+    <string name="title_fg3">APP  THREE</string>
+    <string name="content_fg3">happy project  hehehehe</string>
+
+</resources>

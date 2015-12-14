@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_selected">#888</color>
+    <color name="background_fg1">#563476</color>
+    <color name="background_fg2">#34eaa3</color>
+    <color name="background_fg3">#6789ea</color>
+    <color name="background_separator">#454533</color>
+    <color name="background_buttonbar">#6756aa</color>
+    <color name="primary_material_light">#ffefefef</color>
+
+</resources>

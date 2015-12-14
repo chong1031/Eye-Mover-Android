@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.chongryong.friendly_eye_mover" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="APPIntro"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".MainActivity"
+            android:label="Friendly-Eye-Mover" />
+
+        <activity
+            android:name=".StartPage"
+            android:label="APPIntro" />
+
+        <activity
+            android:name=".PlayPage"
+            android:label="PlayPage" />
+
+        <activity
+            android:name=".EndPage"
+            android:label="EndPage" />
+
+        <activity
+            android:name=".APPIntroTwo" />
+    </application>
+
+</manifest>

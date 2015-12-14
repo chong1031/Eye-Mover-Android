@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/start_page"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d9d9d9"
+    android:orientation="vertical"
+    tools:context=".StartPage">
+
+
+    <TextView
+        android:id="@+id/heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="0dp"
+        android:layout_marginTop="100dp"
+        android:autoText="false"
+        android:gravity="center"
+        android:password="false"
+        android:text="@string/startpage_head"
+        android:textAppearance="@style/WelcomeHeadingAppearance"
+        android:textColor="#020202"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:id="@+id/ball_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="50dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/ball" />
+
+    <TextView
+        android:id="@+id/bottom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:autoText="false"
+        android:gravity="center"
+        android:password="false"
+        android:text="@string/startpage_bottom"
+        android:textAppearance="@style/WelcomeHeadingAppearance"
+        android:textColor="#020202"
+        android:textSize="20dp"
+        android:textStyle="italic" />
+
+</LinearLayout>
